@@ -15,19 +15,19 @@ const Testimonials = () => {
                         <img src={user1} alt='user1'/>
                         <p>Desarrollador en lenguajes de programación: HTML-CSS-Js</p>
                         <p><span></span></p>
-                        <p></p>
+                        <p>Lugar de desarollo de la habilidad: Universidad De Manizales</p>
                     </div>
                     <div className='card'>
                         <img src={user2} alt='user1'/>
                         <p>Analisis y desarollo de Arduino C++</p>
                         <p><span></span></p>
-                        <p></p>
+                        <p>Lugar de desarollo de la habilidad: Universidad De Manizales</p>
                     </div>
                     <div className='card'>
                         <img src={user3} alt='user1'/>
                         <p>Bases de Datos , lenguaje : Postgresql</p>
                         <p><span></span></p>
-                        <p></p>
+                        <p>Lugar de desarollo de la habilidad: Universidad De Manizales</p>
                     </div>
                 </div>
             </div>
