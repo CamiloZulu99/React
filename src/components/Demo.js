@@ -11,7 +11,7 @@ const Demo = () => {
                     <p>Universidad de Manizales, Colombia</p>                   
                 </div>
                 <div className='col-2'>
-                    <iframe width='570' height='320' src='https://www.youtube.com/watch?v=n0qmsajTlSY' title='Youtube video UM' frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                    <iframe width='570' height='320' src='https://www.youtube.com/watch?v=zdNoaXg868U' title='Youtube video UM' frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
                 </div>
 
                 <div className='col-1'>
