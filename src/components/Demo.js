@@ -11,7 +11,7 @@ const Demo = () => {
                     <p>Universidad de Manizales, Colombia</p>                   
                 </div>
                 <div className='col-2'>
-                    <iframe width='570' height='320' src='https://www.youtube.com/watch?v=zdNoaXg868U' title='Youtube video UM' frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                    <iframe width='570' height='320' src='https://www.youtube.com/watch?v=WLuXbqrQqmI' title='Youtube video UM' frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
                 </div>
 
                 <div className='col-1'>
@@ -26,6 +26,15 @@ const Demo = () => {
                      <li>Arduino</li>
                      <li>Visual Studio code</li>
                      <li>Maple 2019</li>
+                     
+
+                     <div className='col-1'>
+                   
+                    <a href="https://github.com/CamiloZulu99" target="_blank">Visita mis repositorios de GitLab</a>
+                    <a href="https://gitlab.com/CamiloZulu99" target="_blank">Visita mis repositorios de GitHub</a>
+                                      
+                </div>
+
                      
 </ul>                  
                 </div>
