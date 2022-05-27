@@ -1,4 +1,4 @@
-# Tírabajos React 
+# Tírabajos React HOJA-DE-VIDA
 
 _Se realizan hoja de vida en base a React_
 
