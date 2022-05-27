@@ -8,6 +8,7 @@ const Hero = () => {
                 <p>Contacto</p>
                 <p>3226529869</p>
                 <p>My Curriculum Vitae</p>
+                <p>Correo:Camilozuluaga14@gmail.com</p>
                 
                 
             </div>
